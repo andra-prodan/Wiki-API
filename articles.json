@@ -1,0 +1,111 @@
+[{
+  "_id": {
+    "$oid": "63e3dc849a28ea83a12b3237"
+  },
+  "title": "REST",
+  "content": "Representational State Transfer (REST) is a software architecture that imposes conditions on how an API should work. REST was initially created as a guideline to manage communication on a complex network like the internet."
+},{
+  "_id": {
+    "$oid": "63e3dd759a28ea83a12b3238"
+  },
+  "title": "Bootstrap",
+  "content": "Bootstrap is a free, open source front-end development framework for the creation of websites and web apps. Designed to enable responsive development of mobile-first websites, Bootstrap provides a collection of syntax for template designs."
+},{
+  "_id": {
+    "$oid": "63e3de4d9a28ea83a12b323c"
+  },
+  "title": "Javascript",
+  "content": "JavaScript is a scripting language that enables you to create dynamically updating content, control multimedia, animate images, and pretty much everything else."
+},{
+  "_id": {
+    "$oid": "63e3de629a28ea83a12b323d"
+  },
+  "title": "CSS",
+  "content": "CSS (Cascading Style Sheets) is used to style and layout web pages — for example, to alter the font, color, size, and spacing of your content, split it into multiple columns, or add animations and other decorative features."
+},{
+  "_id": {
+    "$oid": "63e3de829a28ea83a12b323e"
+  },
+  "title": "HTML",
+  "content": "HTML is the standard markup language for creating Web pages."
+},{
+  "_id": {
+    "$oid": "63e3dec09a28ea83a12b323f"
+  },
+  "title": "MongoDB",
+  "content": "MongoDB is a document database used to build highly available and scalable internet applications. With its flexible schema approach, it's popular with development teams using agile methodologies."
+},{
+  "_id": {
+    "$oid": "63e3df009a28ea83a12b3240"
+  },
+  "title": "Cyclic",
+  "content": "Cyclic apps are a combination of code from a git repository and serverless cloud infrastructure. Each app is a stack like: Infrastructure: Serverless cloud components - Lambda, ApiGateway, SNS/SQS etc. Runtime: Instrumentation and bootstrapping. Code: Application code from git."
+},{
+  "_id": {
+    "$oid": "63e3df4b9a28ea83a12b3241"
+  },
+  "title": "MySQL",
+  "content": "MySQL is a database management system."
+},{
+  "_id": {
+    "$oid": "63e3df809a28ea83a12b3242"
+  },
+  "title": "EJS",
+  "content": "EJS (Embedded JavaScript Templating) is one of the most popular template engines for JavaScript. As the name suggests, it lets us embed JavaScript code in a template language that is then used to generate HTML."
+},{
+  "_id": {
+    "$oid": "63e3dfbc9a28ea83a12b3243"
+  },
+  "title": "GIT",
+  "content": "Git is a DevOps tool used for source code management. It is a free and open-source version control system used to handle small to very large projects efficiently. Git is used to tracking changes in the source code, enabling multiple developers to work together on non-linear development."
+},{
+  "_id": {
+    "$oid": "63e3dfe19a28ea83a12b3244"
+  },
+  "title": "API",
+  "content": "API stands for Application Programming Interface. In the context of APIs, the word Application refers to any software with a distinct function. Interface can be thought of as a contract of service between two applications. This contract defines how the two communicate with each other using requests and responses."
+},{
+  "_id": {
+    "$oid": "63e3e0079a28ea83a12b3245"
+  },
+  "title": "Express.js",
+  "content": "Express is a node js web application framework that provides broad features for building web and mobile applications. It is used to build a single page, multipage, and hybrid web application. It's a layer built on the top of the Node js that helps manage servers and routes."
+},{
+  "_id": {
+    "$oid": "63e3e0319a28ea83a12b3246"
+  },
+  "title": "Node.js",
+  "content": "Node. js is an open-source, cross-platform JavaScript runtime environment and library for running web applications outside the client's browser."
+},{
+  "_id": {
+    "$oid": "63e3e0559a28ea83a12b3247"
+  },
+  "title": "OOP",
+  "content": "Object-oriented programming (OOP) is a style of programming characterized by the identification of classes of objects closely linked with the methods (functions) with which they are associated."
+},{
+  "_id": {
+    "$oid": "63e3e07f9a28ea83a12b3248"
+  },
+  "title": "Unix command line",
+  "content": "A Unix shell is a command-line interpreter or shell that provides a command line user interface for Unix-like operating systems."
+},{
+  "_id": {
+    "$oid": "63e3e0c59a28ea83a12b3249"
+  },
+  "title": "JQuery",
+  "content": "The purpose of jQuery is to make it much easier to use JavaScript on your website. jQuery takes a lot of common tasks that require many lines of JavaScript code to accomplish, and wraps them into methods that you can call with a single line of code."
+},{
+  "_id": {
+    "$oid": "63e40610530251d07ab74783"
+  },
+  "title": "Postman",
+  "content": "Postman is an application used for API testing. It is an HTTP client that tests HTTP requests, utilizing a graphical user interface, through which we obtain different types of responses that need to be subsequently validated.",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e4076d17c64cd104e22dd7"
+  },
+  "title": "React.js",
+  "content": "React. js framework is an open-source JavaScript framework and library developed by Facebook. It's used for building interactive user interfaces and web applications quickly and efficiently with significantly less code than you would with vanilla JavaScript.",
+  "__v": 0
+}]
